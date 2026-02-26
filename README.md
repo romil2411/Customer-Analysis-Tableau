@@ -20,7 +20,7 @@ This project presents a comprehensive analysis of e-commerce customer behavior a
 * **Promotion Impact:** The Quantity-Discount Correlation scatter plot shows that while high discounts (up to 70%) are utilized, the majority of high-volume orders occur at lower discount tiers, suggesting brand strength over price-cutting.
 
 ## Dashboard Preview
-![Customer Analysis Dashboard](Customer%20Analysis%20Dashboard.jpg)
+![Customer Analysis Dashboard](Customer_Analysis_Dashboard.jpg)
 
 ## Technical Skills Demonstrated
 * **Data Visualization:** Donut charts, Diverging bar charts (Butterfly charts), Geo-spatial mapping, and Scatter plots.
