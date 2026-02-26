@@ -4,7 +4,7 @@
 This project presents a comprehensive analysis of e-commerce customer behavior and sales performance. By analyzing $233,650,194 in Total Revenue, this dashboard provides actionable insights into regional performance, demographic spending habits, and the effectiveness of discount-driven sales strategies.
 
 ## 🚀 Live Interactive Dashboard
-[**View Live Dashboard on Tableau Public**](https://public.tableau.com/views/CustomerAnalysisDashboard_2026/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[👉 Click here to interact with the Customer Analysis Dashboard](https://public.tableau.com/views/CustomerAnalysisDashboard_2026/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights from the Data
 * Total Revenue: The dataset tracks a total of $233.6M in revenue across various product categories.
